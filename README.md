@@ -3,7 +3,7 @@ Game played on a 6x6 grid deployed on Ethereum in summer 2018.
 
 The game was born to give someone an 'ETH Trophy'. An early version of what is now known as Non Transferable (Non fungible) Token.
 
-Mainnet: [0x27ce49590684308d22Fe7ADcb8B80976701774D3](0x27ce49590684308d22Fe7ADcb8B80976701774D3)
+Mainnet: [0x27ce49590684308d22Fe7ADcb8B80976701774D3](https://etherscan.io/address/0x27ce49590684308d22Fe7ADcb8B80976701774D3)
 
 
 # Video
